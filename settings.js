@@ -1,15 +1,15 @@
 // 🌟 Bot Configuration File 🌟
-// Edit these values to personalize your ARSLAN BOT
+// Edit these values to personalize your MANI BOT
 
 const settings = {
   // 🏷️ Sticker Settings
-  packname: '💎 ARSLAN-TECH-MD 💎',
-  author: '👑 ArslanMD Official 🇵🇰',
+  packname: '💎 MANI-TECH-MD 💎',
+  author: '👑 ManiMD Official 🇵🇰',
 
   // 🤖 Bot Identity
-  botName: '⚡ ARSLAN TECH MD ⚡',
-  botOwner: '🌍 ArslanMD Official 🇵🇰',   // Change to your name if needed
-  ownerNumber: '923237045919',        // Your number without + symbol
+  botName: '⚡ MANI TECH MD ⚡',
+  botOwner: '🌍 MANI MD Official 🇵🇰',   // Change to your name if needed
+  ownerNumber: '923033096103',        // Your number without + symbol
 
   // 🎬 APIs
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq', // For GIF commands
@@ -18,9 +18,9 @@ const settings = {
   commandMode: 'public', // Options: 'public' (everyone) | 'private' (owner only)
 
   // 📝 Meta Information
-  description: '💬 A fun, powerful & stylish WhatsApp MD bot created with ❤️ by ARSLAN POWER.',
+  description: '💬 A fun, powerful & stylish WhatsApp MD bot created with ❤️ by MANI POWER.',
   version: '2.0.0',
-updateZipUrl: "https://github.com/Arslan-MD/Arslan-Tech-MD/archive/refs/heads/main.zip",
+updateZipUrl: "https://github.com/MANI-TECH-BOT/MANI-TECH-BOT/archive/refs/heads/main.zip",
   
 };
 
